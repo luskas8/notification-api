@@ -1,0 +1,8 @@
+#!/bin/bash
+#set -e
+#
+## This script is used to restore databases from backup files
+#echo "Restoring db"
+#pg_restore --no-privileges --no-owner -d db_notification       /docker-entrypoint-initdb.d/db_notification-09-02-2025.backup
+#
+#echo "Done restoring databases!"
